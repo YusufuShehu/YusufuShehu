@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a Senior Research Scientist @ [Moogsoft](https://www.moogsoft.com/).
+
+I am the owner and author of [The Research Scientist Pod](https://researchdatapod.com).
+
+My favourite languages are Python, Java, and C++.
+
+
 <!--
 **YusufuShehu/YusufuShehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
