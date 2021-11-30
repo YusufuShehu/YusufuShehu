@@ -1,4 +1,6 @@
-### Hi, I'm Suf 👋
+# <p align="center"> Hi, I'm Suf 👋</p>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/scientist_pod?color=blue&style=for-the-badge)
 
 I'm a Senior Research Scientist @ [Moogsoft](https://www.moogsoft.com/).
 
